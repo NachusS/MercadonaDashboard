@@ -1318,11 +1318,7 @@ export default function App() {
       <div className="glow glow-2" />
 
       <header className="topbar">
-        <div>
-          <div className="brand-row">
-            <span className="brand-badge">Mercadona-Dashboard</span>
-            <span className="brand-pill">Sin backend · listo para GitHub Pages</span>
-          </div>
+        <div className="brand-block">
           <div className="brand-title-row">
             <h1>Mercadona-Dashboard</h1>
             <div className="brand-meta-inline">
