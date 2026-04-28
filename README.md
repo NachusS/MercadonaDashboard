@@ -2,6 +2,9 @@
 
 Landing app responsive para controlar gastos de Mercadona a partir de facturas PDF y un dataset Excel descargable (`gastos.xlsx`).
 
+## Acceso a la Web-APP
+https://nachuss.github.io/MercadonaDashboard/
+
 ## Qué hace
 
 - Carga un dataset existente (`gastos.xlsx`) y continúa alimentándolo.
